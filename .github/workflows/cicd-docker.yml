@@ -34,7 +34,7 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: tien2204/it4409-sample:staging
+          tags: tienvu2204/it4409-20225231
 
   deploy:
     name: Deploy to Server
